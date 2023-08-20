@@ -9,8 +9,8 @@
 
 <channel>
 	<title>LIC-INSURANCE</title>
-	<atom:link href="httpsarathsam.github.io/Lic-Wordpress//feed/" rel="self" type="application/rss+xml" />
-	<link>httpsarathsam.github.io/Lic-Wordpress/</link>
+	<atom:link href="http://sarathsam.github.io/Lic-Wordpress//feed/" rel="self" type="application/rss+xml" />
+	<link>http://sarathsam.github.io/Lic-Wordpress/</link>
 	<description></description>
 	<lastBuildDate>Sat, 19 Aug 2023 06:58:41 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.3</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>httpsarathsam.github.io/Lic-Wordpress//2023/08/19/hello-world/</link>
-					<comments>httpsarathsam.github.io/Lic-Wordpress//2023/08/19/hello-world/#comments</comments>
+		<link>http://sarathsam.github.io/Lic-Wordpress//2023/08/19/hello-world/</link>
+					<comments>http://sarathsam.github.io/Lic-Wordpress//2023/08/19/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 19 Aug 2023 06:58:41 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">httpsarathsam.github.io/Lic-Wordpress//?p=1</guid>
+		<guid isPermaLink="false">http://sarathsam.github.io/Lic-Wordpress//?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>httpsarathsam.github.io/Lic-Wordpress//2023/08/19/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>http://sarathsam.github.io/Lic-Wordpress//2023/08/19/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
